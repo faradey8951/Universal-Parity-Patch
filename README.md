@@ -8,5 +8,5 @@ Universal Parity Patch is made for Minecraft Bedrock Edition addon that implemen
 * Current Version: v1.0.5.21 (May 2021)
 -----------------------------
 * Resource Pack features:
-    * Moving animations:
+    * Walking animations:
         - Changed walking animations for pig, cow, sheep, chicken, mooshroom, zombie, zombie villager, zombie pigman, piglin, skeleton, stray, creeper, villager, pillager, evokation illager, vindicator, witch, wither skeleton.
