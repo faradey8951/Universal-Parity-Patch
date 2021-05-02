@@ -9,4 +9,11 @@ Universal Parity Patch is made for Minecraft Bedrock Edition addon that implemen
 -----------------------------
 * Resource Pack features:
     * Walking animations:
-        - Changed walking animations for pig, cow, sheep, chicken, mooshroom, zombie, zombie villager, zombie pigman, piglin, skeleton, stray, creeper, villager, pillager, evokation illager, vindicator, witch, wither skeleton.
+        - Changed walking animations for pig, cow, sheep, chicken, mooshroom, zombie, zombie villager, zombie pigman, piglin, skeleton, stray, creeper, villager, pillager, evokation illager, vindicator, witch, wither skeleton to match Java Edition.
+    * Models:
+         - Changed baby cow head position to match Java Edition.
+         - Changed baby villager head size to match Java Edition.
+         - Changed baby wolf head size to match Java Edition.
+    * Textures:
+         - Colormap was improved to be more similar to Java Edition
+               - Leaves and grass colors and brightness were changed.
