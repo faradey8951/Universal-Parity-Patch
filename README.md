@@ -39,21 +39,23 @@ Universal Parity Patch is made for Minecraft Bedrock Edition addon that implemen
       - Changed hurt color for most mobs to match Java Edition.
       - Mobs on fire color has been removed to match Java Edition (but Legacy Console disparity).
       - Changed creeper flashing brightness to match Java Edition.
+  * UI:
+      - Hotbar, progress bar now mathes Java Edition (based on original Bedrock UI hud_screen.json)
 
 * Behavior Pack features:
   * Entities:
       - Corrected cow panic, tempt speed to match Java Edition.
-		  - Corrected sheep random stroll, panic, tempt speed to match Java Edition.
-		  - Corrected pig panic speed to match Java Edition.
-		  - Corrected chicken panic speed to match Java Edition.
-	  	- Corrected ocelot and cat sprint, panic priority and speed to match Java Edition.
-  		- Corrected villager panic and sprint speed to match Java Edition.
-	  	- Corrected mooshroom panic, tempt speed to match Java Edition.
-	  	- Corrected wither_skeleton melee attack walk speed to match Java Edition.
-	  	- Zombies and villager zombies won't change their targets now to match Java Edition.
+      - Corrected sheep random stroll, panic, tempt speed to match Java Edition.
+      - Corrected pig panic speed to match Java Edition.
+      - Corrected chicken panic speed to match Java Edition.
+      - Corrected ocelot and cat sprint, panic priority and speed to match Java Edition.
+      - Corrected villager panic and sprint speed to match Java Edition.
+      - Corrected mooshroom panic, tempt speed to match Java Edition.
+      - Corrected wither_skeleton melee attack walk speed to match Java Edition.
+      - Zombies and villager zombies won't change their targets now to match Java Edition.
   * Generation structures:
-    - Mega jungle tree scale now matches Java Edition.
-    - Jungle bush now is more dense to match Java Edition.
+      - Mega jungle tree scale now matches Java Edition.
+      - Jungle bush now is more dense to match Java Edition.
   * Genertion structures rules:
-    - Tall grass density in plains, savanna, mountains and swamp biomes now matches Java and Legacy Console editions.
-    - Mega jungle tree generation density has been changed to be more similar to Java and Legacy Console editions. 
+      - Tall grass density in plains, savanna, mountains and swamp biomes now matches Java and Legacy Console editions.
+      - Mega jungle tree generation density has been changed to be more similar to Java and Legacy Console editions. 
