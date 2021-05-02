@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Universal Parity Patch is made for Minecraft Bedrock Edition addon that implements a lot features from Java Edition and Legacy Console edition as well",
+        "name": "Universal Parity Patch [BP]",
+        "uuid": "4e4cf310-ab23-11eb-bcbc-0242ac130002",
+        "version": [ 1, 5, 21 ],
+        "min_engine_version": [ 1, 16, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Universal Parity Patch is made for Minecraft Bedrock Edition addon that implements a lot features from Java Edition and Legacy Console edition as well",
+            "type": "data",
+            "uuid": "774fa612-ab24-11eb-bcbc-0242ac130002",
+            "version": [1, 5, 21]
+        }
+    ]
+}
