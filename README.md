@@ -1,5 +1,5 @@
 # Universal-Parity-Patch
-![ICON](https://i114.fastpic.ru/big/2021/0502/a7/20cca4a7c86e12fb7018a17d915d84a7.jpg)
+![ICON](https://i114.fastpic.ru/big/2021/0502/37/e981b7eeafba65a6ae511704a61eb437.jpg)
 -----------------------------
 Universal Parity Patch is made for Minecraft Bedrock Edition addon that implements a lot features from Java Edition and Legacy Console edition as well
 -----------------------------
