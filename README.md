@@ -39,8 +39,6 @@ Universal Parity Patch is made for Minecraft Bedrock Edition addon that implemen
       - Changed hurt color for most mobs to match Java Edition.
       - Mobs on fire color has been removed to match Java Edition (but Legacy Console disparity).
       - Changed creeper flashing brightness to match Java Edition.
-  * UI:
-  	- 
 
 * Behavior Pack features:
   * Entities:
