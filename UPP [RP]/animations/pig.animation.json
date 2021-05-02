@@ -1,0 +1,48 @@
+{
+	"format_version" : "1.8.0",
+	"animations" : {
+		"animation.pig.walk" : {
+			"anim_time_update" : "query.modified_distance_moved",
+			"loop" : true,
+			"bones" : {
+				"leg0" : {
+					"rotation" : [ "math.cos(query.anim_time * (20 + (query.is_baby * 60))) * (45 - (query.is_baby * 15))", 0.0, 0.0 ]
+				},
+				"leg1" : {
+					"rotation" : [ "math.cos(query.anim_time * (20 + (query.is_baby * 60))) * -(45 - (query.is_baby * 15))", 0.0, 0.0 ]
+				},
+				"leg2" : {
+					"rotation" : [ "math.cos(query.anim_time * (20 + (query.is_baby * 60))) * -(45 - (query.is_baby * 15))", 0.0, 0.0 ]
+				},
+				"leg3" : {
+					"rotation" : [ "math.cos(query.anim_time * (20 + (query.is_baby * 60))) * (45 - (query.is_baby * 15))", 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.pig.baby_transform" : {
+			"loop" : true,
+			"bones" : {
+				"head" : {
+					"position" : [ 0.0, 4.0, 4.0 ],
+					"scale" : 2.0
+				}
+			}
+		},
+		"animation.pig.setup" : {
+			"loop" : true,
+			"bones" : {
+				"body" : {
+					"rotation" : [ "-this", 0.0, 0.0 ]
+				}
+			}
+		},
+		"animation.pig.setup.v1.0" : {
+			"loop" : true,
+			"bones" : {
+				"body" : {
+					"rotation" : [ "90.0 - this", 0.0, 0.0 ]
+				}
+			}
+		}
+	}
+}
