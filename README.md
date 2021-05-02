@@ -24,6 +24,7 @@ Universal Parity Patch is made for Minecraft Bedrock Edition addon that implemen
     * Fogs:
          - Changed distance fog color to be more similar to Java and Legacy Console editions.
          - Changed distance fog render range to match Legacy Console Edition.
+         - Weather fog mechanics changed to be more similar to Java Edition. 
          - Changed water fog, transparrency, colors and render distance to match Java Edition.
     * Sounds:
          - Changed explosion sound pitch range and volume distance to match Java Edition.
@@ -33,3 +34,8 @@ Universal Parity Patch is made for Minecraft Bedrock Edition addon that implemen
          - Jumping and landing sounds have been removed to match Java Edition.
          - Added more sounds from Java Edition for rain, thunder, cauldron, chest, wooden door, water splash, swim, player crit attack, player knockback attack.
          - Survival music now also can being played in creative game mode.
+         - Experience orb pick up sound pitch range now matches Legacy Console Edition (but Java Edition disparity)
+    * Rendering:
+         - Changed hurt color for most mobs to match Java Edition.
+         - Mobs on fire color has been removed to match Java Edition (but Legacy Console disparity)
+         - Changed creeper flashing brightness to match Java Edition.
