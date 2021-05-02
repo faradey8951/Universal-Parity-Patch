@@ -3,7 +3,7 @@
 -----------------------------
 Universal Parity Patch is made for Minecraft Bedrock Edition addon that implements a lot features from Java Edition and Legacy Console edition as well
 -----------------------------
-
+* Please note that you have to enable "experimental mode" ("creation of custom biomes" feature) when create the world if you want to enable behavior pack (generation changes).
 -----------------------------
 * Current Version: v1.0.5.21 (May 2021)
 -----------------------------
