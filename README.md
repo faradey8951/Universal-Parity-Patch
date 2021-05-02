@@ -15,5 +15,21 @@ Universal Parity Patch is made for Minecraft Bedrock Edition addon that implemen
          - Changed baby villager head size to match Java Edition.
          - Changed baby wolf head size to match Java Edition.
     * Textures:
-         - Colormap was improved to be more similar to Java Edition
-               - Leaves and grass colors and brightness were changed.
+         - Colormap was improved to be more similar to Java Edition - leaves and grass color and brightness were changed.
+         - Sand brightness was corrected to be more similar to Java Edition.
+         - Tall grass texture now matches programmer's art style.
+         - Explosion particles now matches Java Edition.
+    * Particles:
+         - Changed block desctruct particles to be more similar to Legacy Console Edition.
+    * Fogs:
+         - Changed distance fog color to be more similar to Java and Legacy Console editions.
+         - Changed distance fog render range to match Legacy Console Edition.
+         - Changed water fog, transparrency, colors and render distance to match Java Edition.
+    * Sounds:
+         - Changed explosion sound pitch range and volume distance to match Java Edition.
+         - Changed lightning bolt explosion sound volume distance to match Java Edition.
+         - Changed some block types brake and place sounds pitch to match Java Edition.
+         - Item pick up sound (random.pop) playing mechanics now matches Legacy Console Edition.
+         - Jumping and landing sounds have been removed to match Java Edition.
+         - Added more sounds from Java Edition for rain, thunder, cauldron, chest, wooden door, water splash, swim, player crit attack, player knockback attack.
+         - Survival music now also can being played in creative game mode.
